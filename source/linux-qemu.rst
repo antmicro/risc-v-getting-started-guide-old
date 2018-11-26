@@ -4,7 +4,7 @@ Running 64- and 32-bit RISC-V Linux on QEMU
 Prerequisites
 -------------
 
-Running Linux on the QEMU RISC-V port requires you to install some prerequisites.
+Running Linux on the QEMU RISC-V ports requires you to install some prerequisites.
 Find instructions for various Linux distributions as well as macOS below:
 
 .. tabs::
